@@ -7,7 +7,7 @@ class Triangle
     @side3 = side3
   end
 
-  def equilateral
+  def self.equilateral
     (side1 == side2 && side2 == side3) ? true : false
   end
 
