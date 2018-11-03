@@ -32,7 +32,7 @@ class Triangle
 
     begin
       raise TriangleError
-    rescue TriangleError +
+    rescue TriangleError => error 
     end
   end
 end
