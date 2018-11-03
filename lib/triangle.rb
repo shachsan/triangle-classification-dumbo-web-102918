@@ -34,7 +34,7 @@ class Triangle
   end
 
   def kind
-        
+
     return :isosceles if isosceles
     return :equilateral if equilateral
     return :scalene if scalene
@@ -43,6 +43,7 @@ class Triangle
     if invalid_traingle
 
       raise TriangleError
+      binding.pry
     end
 
   end
