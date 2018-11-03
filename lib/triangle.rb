@@ -43,7 +43,7 @@ class Triangle
     if invalid_traingle
 
       raise TriangleError
-      binding.pry
+
     end
 
   end
