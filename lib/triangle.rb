@@ -26,7 +26,8 @@ class Triangle
   end
 
   def invalid_traingle
-  end 
+    
+  end
 
   def kind
     return :isosceles if isosceles
