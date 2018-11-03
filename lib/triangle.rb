@@ -37,7 +37,7 @@ class Triangle
     return :scalene if scalene
 
     if invalid_traingle
-      
+      binding.pry
       raise TriangleError
     end
   end
