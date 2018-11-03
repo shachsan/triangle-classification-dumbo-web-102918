@@ -38,5 +38,6 @@ class Triangle
   end
 
   class TriangleError
+    def 
   end
 end
