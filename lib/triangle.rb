@@ -23,7 +23,7 @@ class Triangle
 
   def scalene
     if !equilateral && !isosceles
-      
+      return 
   end
 
   def kind
