@@ -8,7 +8,7 @@ class Triangle
   end
 
   def equilateral
-    
+    return true if 
   end
 
   def isosceles
