@@ -28,6 +28,6 @@ class Triangle
   end
 
   def kind
-    if 
+    if equilateral
   end
 end
