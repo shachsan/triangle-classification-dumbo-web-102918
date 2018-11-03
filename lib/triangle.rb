@@ -31,7 +31,6 @@ class Triangle
     return :scalene if scalene
 
       raise TriangleError
-    rescue TriangleError => error
       error.message
     end
   end
