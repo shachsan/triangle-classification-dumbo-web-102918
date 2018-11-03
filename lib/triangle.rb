@@ -37,5 +37,5 @@ class Triangle
     end
   end
 
-  
+  class 
 end
