@@ -15,7 +15,7 @@ class Triangle
 
   end
 
-  def 
+  def scalene
 
   def kind
 
