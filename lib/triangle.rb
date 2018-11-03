@@ -16,7 +16,8 @@ class Triangle
        if ((side1 || side2)==side3) || ((side3 || side2==side1))
          return true
        else
-         return 
+         return false
+         
   end
 
   def scalene
