@@ -31,7 +31,7 @@ class Triangle
     return :scalene if scalene
 
     begin
-      raise 
+      raise TriangleError
     rescue
     end
   end
