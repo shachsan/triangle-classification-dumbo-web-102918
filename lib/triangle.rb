@@ -30,7 +30,7 @@ class Triangle
     return :equilateral if equilateral
     return :scalene if scalene
 
-    
+    if ()
     raise TriangleError
   end
 
