@@ -12,7 +12,8 @@ class Triangle
   end
 
   def isosceles
-  end 
+    
+  end
 
   def kind
 
