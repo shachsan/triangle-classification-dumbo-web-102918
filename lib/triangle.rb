@@ -32,7 +32,7 @@ class Triangle
       return true
     end
 
-    
+    if side1 
   end
 
   def kind
