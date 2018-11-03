@@ -22,7 +22,7 @@ class Triangle
   end
 
   def scalene
-    if !equilateral
+    if !equilateral 
   end
 
   def kind
