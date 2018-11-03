@@ -37,8 +37,8 @@ class Triangle
     end
   end
 
-  class TriangleError
+  class TriangleError <
     def message
-    end 
+    end
   end
 end
