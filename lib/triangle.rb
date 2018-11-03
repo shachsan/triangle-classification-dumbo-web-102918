@@ -19,7 +19,7 @@ class Triangle
      end
   end
 
-  def self.scalene
+  def scalene
     if !equilateral && !isosceles
       return true
     end
