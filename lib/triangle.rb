@@ -38,6 +38,7 @@ class Triangle
   end
 
   class TriangleError
-    def 
+    def message
+    end 
   end
 end
