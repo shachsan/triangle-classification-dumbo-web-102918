@@ -30,6 +30,6 @@ class Triangle
   def kind
     return :isosceles if isosceles
     return :equilateral if equilateral
-    return "scalene if scalene
+    return :scalene if scalene
   end
 end
