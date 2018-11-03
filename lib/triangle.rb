@@ -25,7 +25,7 @@ class Triangle
     end
   end
 
-  def invalid_tr
+  def invali
 
   def kind
     return :isosceles if isosceles
