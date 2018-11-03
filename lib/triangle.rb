@@ -12,7 +12,7 @@ class Triangle
   end
 
   def isosceles
-    side1 == side2 
+    side1 
   end
 
   def scalene
