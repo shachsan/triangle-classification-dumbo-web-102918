@@ -7,7 +7,7 @@ class Triangle
     @side3 = side3
   end
 
-  def t
+  def equilateral
 
   def kind
 
