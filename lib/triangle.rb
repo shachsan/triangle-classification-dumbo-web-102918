@@ -1,4 +1,4 @@
 class Triangle
 
-  def initialize
+  def initialize(side1, )
 end
