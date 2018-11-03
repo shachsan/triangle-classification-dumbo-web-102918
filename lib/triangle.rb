@@ -13,7 +13,7 @@ class Triangle
 
   def isosceles
     if !equilateral
-       (((side1 || side2)==side3) || ((side3 || side2)==side1)) ? true : false
+       ((side1 || side2)==side3) || ((side3 || side2)==side1)) ? true : false
   end
 
   def scalene
