@@ -30,13 +30,12 @@ class Triangle
     return :equilateral if equilateral
     return :scalene if scalene
 
-      raise TriangleError
-
+    raise TriangleError
   end
 
   class TriangleError < StandardError
-    def message
+"    def message
 
-    end
+    end"
   end
 end
