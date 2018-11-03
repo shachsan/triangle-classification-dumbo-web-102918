@@ -12,7 +12,7 @@ class Triangle
   end
 
   def isosceles
-
+    return 
   end
 
   def scalene
