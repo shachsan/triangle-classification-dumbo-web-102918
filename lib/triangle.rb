@@ -26,7 +26,7 @@ class Triangle
   end
 
   def invalid_traingle
-    
+    if side1 
   end
 
   def kind
