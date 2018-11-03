@@ -12,7 +12,7 @@ class Triangle
   end
 
   def isosceles
-    
+    if 
     ((side1 || side2)==side3) || ((side3 || side2)==side1) ? true : false
   end
 
