@@ -28,6 +28,6 @@ class Triangle
   end
 
   def kind
-    return ""
+    return "isosceles"
   end
 end
