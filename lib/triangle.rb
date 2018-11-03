@@ -42,10 +42,10 @@ class Triangle
 
       raise TriangleError
 
-      return :isosceles if isosceles
-      return :equilateral if equilateral
-      return :scalene if scalene
     end
+    return :isosceles if isosceles
+    return :equilateral if equilateral
+    return :scalene if scalene
 
   end
 
