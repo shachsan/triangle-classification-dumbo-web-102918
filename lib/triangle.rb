@@ -36,9 +36,7 @@ class Triangle
 
   def kind
     if invalid_traingle
-
       raise TriangleError
-
     end
     return :isosceles if isosceles
     return :equilateral if equilateral
