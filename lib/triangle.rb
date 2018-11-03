@@ -29,7 +29,9 @@ class Triangle
     return :isosceles if isosceles
     return :equilateral if equilateral
     return :scalene if scalene
-    
+
     begin
+      raise
+      
   end
 end
