@@ -19,13 +19,13 @@ class Triangle
      end
   end
 
-  def scalene
+  def self.scalene
     if !equilateral && !isosceles
       return true
     end
   end
 
-  def self
+  def self.
 
   def kind
     return :isosceles if isosceles
