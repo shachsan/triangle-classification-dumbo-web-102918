@@ -34,6 +34,7 @@ class Triangle
   end
 
   def kind
+        binding.pry
     return :isosceles if isosceles
     return :equilateral if equilateral
     return :scalene if scalene
