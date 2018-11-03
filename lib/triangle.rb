@@ -25,6 +25,8 @@ class Triangle
     end
   end
 
+  
+
   def kind
     return :isosceles if isosceles
     return :equilateral if equilateral
