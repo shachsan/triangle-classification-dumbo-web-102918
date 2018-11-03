@@ -25,7 +25,7 @@ class Triangle
     end
   end
 
-  def s
+  def in
 
   def kind
     return :isosceles if isosceles
