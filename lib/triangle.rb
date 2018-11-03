@@ -32,6 +32,7 @@ class Triangle
 
     begin
       raise
+    rescue
       
   end
 end
