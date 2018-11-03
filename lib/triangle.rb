@@ -38,6 +38,7 @@ class Triangle
 
     if invalid_traingle
       raise TriangleError
+    end 
   end
 
   class TriangleError < StandardError
