@@ -29,7 +29,6 @@ class Triangle
 
   def invalid_traingle
     if (side1 || side2 || side3) <=0
-
       return true
     end
   end
