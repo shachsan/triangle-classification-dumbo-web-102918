@@ -33,7 +33,9 @@ class Triangle
     begin
       raise TriangleError
     rescue TriangleError => error
-      error.
+      error.message
     end
   end
+
+  
 end
