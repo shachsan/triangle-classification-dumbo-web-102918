@@ -34,6 +34,6 @@ class Triangle
   end
 
   class TriangleError < StandardError
-      "Invalid Triangle"
+      # "Invalid Triangle"
   end
 end
