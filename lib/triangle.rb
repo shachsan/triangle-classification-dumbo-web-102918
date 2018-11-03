@@ -37,7 +37,7 @@ class Triangle
     return :isosceles if isosceles
     return :equilateral if equilateral
     return :scalene if scalene
-    binding.pry
+
 
     if invalid_traingle
 
