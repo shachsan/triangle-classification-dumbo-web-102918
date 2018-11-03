@@ -37,8 +37,9 @@ class Triangle
     return :scalene if scalene
 
     if invalid_traingle
+      
       raise TriangleError
-    end 
+    end
   end
 
   class TriangleError < StandardError
