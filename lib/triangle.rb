@@ -8,8 +8,9 @@ class Triangle
   end
 
   def equilateral
-    
+
   end
+  
 
   def kind
 
