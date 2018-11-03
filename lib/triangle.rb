@@ -14,7 +14,6 @@ class Triangle
   def isosceles
     if !equilateral
       if side1 == side2 || side2 == side3 || side1 ==side3
-       
          return true
        end
      end
