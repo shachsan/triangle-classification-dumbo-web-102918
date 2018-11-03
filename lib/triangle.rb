@@ -8,7 +8,7 @@ class Triangle
   end
 
   def equilateral
-
+    
   end
 
   def isosceles
@@ -16,6 +16,8 @@ class Triangle
   end
 
   def scalene
+
+  end
 
   def kind
 
