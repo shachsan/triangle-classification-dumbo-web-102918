@@ -38,6 +38,7 @@ class Triangle
     if invalid_traingle
       raise TriangleError
     end
+
     return :isosceles if isosceles
     return :equilateral if equilateral
     return :scalene if scalene
@@ -45,6 +46,5 @@ class Triangle
   end
 
   class TriangleError < StandardError
-      # "Invalid Triangle"
   end
 end
