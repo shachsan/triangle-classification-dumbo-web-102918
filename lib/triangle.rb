@@ -8,11 +8,11 @@ class Triangle
   end
 
   def equilateral
-    (side1 == side2 && side2 == side3) ? true 
+    (side1 == side2 && side2 == side3) ? true : false
   end
 
   def isosceles
-    return true
+    side1 
   end
 
   def scalene
