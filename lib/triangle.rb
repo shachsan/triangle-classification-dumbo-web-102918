@@ -28,7 +28,7 @@ class Triangle
   end
 
   def kind
-    return "isosceles" if isosceles
+    return isosceles" if isosceles
     return "equilateral" if equilateral
     return "scalene" if scalene
   end
