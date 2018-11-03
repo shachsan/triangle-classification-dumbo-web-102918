@@ -18,11 +18,11 @@ class Triangle
        else
          return false
        end
-     end 
+     end
   end
 
   def scalene
-
+    
   end
 
   def kind
